@@ -7,3 +7,6 @@ def prime(n):
     return (l)
 
 print (prime(10000))
+#todo:  
+#       1: skip even numbers
+#       2: only check up to sqrt(n)
