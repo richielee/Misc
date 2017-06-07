@@ -1,3 +1,4 @@
+#Given an integer n, return the list of prime numbers that are inferior to n
 l = [2, 3]
 def prime(n):
     for i in range(2,n):
