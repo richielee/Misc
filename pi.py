@@ -14,7 +14,7 @@ def approx(iterations):
 
 def main():
     '''Main function'''
-    iterations = int(input('Iteration?'))
+    iterations = int(input('Iteration? '))
     pi_approximated = approx(iterations)
     print("Pi is approximated as")
     print(pi_approximated)
